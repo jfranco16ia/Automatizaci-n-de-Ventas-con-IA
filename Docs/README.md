@@ -1,0 +1,1 @@
+Este paquete contiene el curso y plantillas organizadas para ventas, agendas y automatizaciones.
